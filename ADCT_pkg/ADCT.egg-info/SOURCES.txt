@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+ADCT/DataHandler.py
+ADCT/DataOBJ.py
+ADCT.egg-info/PKG-INFO
+ADCT.egg-info/SOURCES.txt
+ADCT.egg-info/dependency_links.txt
+ADCT.egg-info/requires.txt
+ADCT.egg-info/top_level.txt

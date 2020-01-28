@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: ADCT
+Version: 1.1.2
+Summary: A python package capable of performing and illustrating a few clustering methods.
+Home-page: https://github.com/JJ8428/ADCT
+Author: Naga Venkata Sai Jagjit (JJ) Satti
+Author-email: nsatti.sc@gmail.com
+License: MIT
+Description: # ADCT
+        
+        (A) (D)ata (C)lustering (T)ool
+        
+        A python package able to perform and illustrate a few clustering methods.
+        
+        Required Packages:
+        - numpy
+        - matplotlib
+        - random
+        
+        To use package...
+        
+        import ADCT
+        
+        Future updates will include terminal/pipeline prompts
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
